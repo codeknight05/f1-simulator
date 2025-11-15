@@ -25,8 +25,5 @@ $ ./f1-race
 - [ncurses](https://en.wikipedia.org/wiki/Ncurses)
 - [compiler with c++17 support](https://gcc.gnu.org/)
 
-<a name="pre"></a>
-# Simulation
-Best to see in 150%. Chill, they are not new Schumachers, just simulation is speeded 4x up. Only 8 bolides because of colours variations :(
-![](https://github.com/radosz99/f1-race/blob/master/resized_race.gif)
+
 
